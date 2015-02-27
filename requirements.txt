@@ -1,0 +1,2 @@
+Twisted==15.0.0
+Pygame==1.9.1release
